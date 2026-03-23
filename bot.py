@@ -2,7 +2,7 @@ import random
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = "8739283943:AAF0QuCixWwviRhDiUE8_01AJfC166Ck6zc"
+TOKEN = ("BOT_TOKEN")
 
 players = []
 roles = {}
